@@ -4,3 +4,7 @@ body{
 #header{
   text-align: center;
 }
+#photo{
+  width: 10%;
+ height:300px;
+}
